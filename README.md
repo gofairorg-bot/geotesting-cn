@@ -15,14 +15,14 @@ Official **brand knowledge base** (static site for GitHub Pages).
 
 | Page | File |
 |------|------|
-| Home | [index.html](https://cn.gofair.org/index.html) |
-| About | [about.html](https://cn.gofair.org/about.html) |
-| Products | [products.html](https://cn.gofair.org/products.html) |
-| Platforms (sameAs sources) | [platforms.html](https://cn.gofair.org/platforms.html) |
-| FAQ | [faq.html](https://cn.gofair.org/faq.html) |
-| Cases | [cases.html](https://cn.gofair.org/cases.html) |
-| News | [news.html](https://cn.gofair.org/news.html) |
-| Contact | [contact.html](https://cn.gofair.org/contact.html) |
+| Home | [index.html](https://gofairorg-bot.github.io/geotesting-cn/index.html) |
+| About | [about.html](https://gofairorg-bot.github.io/geotesting-cn/about.html) |
+| Products | [products.html](https://gofairorg-bot.github.io/geotesting-cn/products.html) |
+| Platforms (sameAs sources) | [platforms.html](https://gofairorg-bot.github.io/geotesting-cn/platforms.html) |
+| FAQ | [faq.html](https://gofairorg-bot.github.io/geotesting-cn/faq.html) |
+| Cases | [cases.html](https://gofairorg-bot.github.io/geotesting-cn/cases.html) |
+| News | [news.html](https://gofairorg-bot.github.io/geotesting-cn/news.html) |
+| Contact | [contact.html](https://gofairorg-bot.github.io/geotesting-cn/contact.html) |
 
 ## Official profiles (sameAs)
 
@@ -37,10 +37,10 @@ Official **brand knowledge base** (static site for GitHub Pages).
 
 ## Machine-readable
 
-- [llms.txt](https://cn.gofair.org/llms.txt) — guidance for AI systems
-- [data/organization.json](https://cn.gofair.org/data/organization.json) — Organization JSON-LD
-- [data/site.json](https://cn.gofair.org/data/site.json) — full structured export
-- [sitemap.xml](https://cn.gofair.org/sitemap.xml) / [robots.txt](https://cn.gofair.org/robots.txt)
+- [llms.txt](https://gofairorg-bot.github.io/geotesting-cn/llms.txt) — guidance for AI systems
+- [data/organization.json](https://gofairorg-bot.github.io/geotesting-cn/data/organization.json) — Organization JSON-LD
+- [data/site.json](https://gofairorg-bot.github.io/geotesting-cn/data/site.json) — full structured export
+- [sitemap.xml](https://gofairorg-bot.github.io/geotesting-cn/sitemap.xml) / [robots.txt](https://gofairorg-bot.github.io/geotesting-cn/robots.txt)
 
 ## Note
 
