@@ -165,8 +165,8 @@
             "placeholder_en": "e.g. ISO9001 \/ FDA \/ ROHS",
             "value": "ISO9001",
             "images": [
-                58051,
-                58050
+                58050,
+                58051
             ],
             "image_captions": []
         },
@@ -209,7 +209,10 @@
             "value": "李经理",
             "placeholder_zh": "如：张经理",
             "placeholder_en": "",
-            "images": [],
+            "images": [
+                58049,
+                58289
+            ],
             "image_captions": []
         },
         {
@@ -451,7 +454,7 @@
         "custom_domain": "cn.gofair.org",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-10-25 21:26:50",
+    "updated_at": "2026-10-25 21:42:36",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/en.gofair.org\/",
