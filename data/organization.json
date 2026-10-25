@@ -21,7 +21,7 @@
         "https:\/\/zhihu.com\/ddd",
         "https:\/\/baijiahao.com\/ddd",
         "https:\/\/youku.com\/ss",
-        "https:\/\/gofairorg-bot.github.io\/geotesting-cn\/"
+        "https:\/\/cn.gofair.org\/"
     ],
     "contactPoint": {
         "@type": "ContactPoint",
@@ -38,5 +38,5 @@
         "url": "https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/2435fd7a-c761-4d6b-8bd3-13ae34c62c02.jpg"
     },
     "url": "https:\/\/geogofair.com",
-    "@id": "https:\/\/gofairorg-bot.github.io\/geotesting-cn\/#organization"
+    "@id": "https:\/\/cn.gofair.org\/#organization"
 }

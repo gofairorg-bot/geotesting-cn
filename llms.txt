@@ -8,14 +8,14 @@
 - Products: 数控设备、激光设备、焊接设备
 
 ## Site map
-- https://gofairorg-bot.github.io/geotesting-cn/index.html
-- https://gofairorg-bot.github.io/geotesting-cn/about.html
-- https://gofairorg-bot.github.io/geotesting-cn/products.html
-- https://gofairorg-bot.github.io/geotesting-cn/platforms.html
-- https://gofairorg-bot.github.io/geotesting-cn/faq.html
-- https://gofairorg-bot.github.io/geotesting-cn/cases.html
-- https://gofairorg-bot.github.io/geotesting-cn/news.html
-- https://gofairorg-bot.github.io/geotesting-cn/contact.html
+- https://cn.gofair.org/index.html
+- https://cn.gofair.org/about.html
+- https://cn.gofair.org/products.html
+- https://cn.gofair.org/platforms.html
+- https://cn.gofair.org/faq.html
+- https://cn.gofair.org/cases.html
+- https://cn.gofair.org/news.html
+- https://cn.gofair.org/contact.html
 
 ## sameAs / official profiles
 - https://1688.com/ddd

@@ -13,4 +13,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://gofairorg-bot.github.io/geotesting-cn/sitemap.xml
+Sitemap: https://cn.gofair.org/sitemap.xml

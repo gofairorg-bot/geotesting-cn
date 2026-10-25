@@ -448,10 +448,10 @@
         "style": "business"
     },
     "advanced": {
-        "custom_domain": "",
+        "custom_domain": "cn.gofair.org",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-10-25 21:23:40",
+    "updated_at": "2026-10-25 21:26:50",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/en.gofair.org\/",
