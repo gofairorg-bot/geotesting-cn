@@ -15,7 +15,7 @@
             "label_en": "Company Name",
             "placeholder_zh": "如：广州市***自动化设备有限公司",
             "placeholder_en": "e.g. Guangzhou *** Automation Co., Ltd.",
-            "value": "广州潜龙科技有限公司2029",
+            "value": "广州潜龙科技有限公司2150",
             "images": [
                 57904,
                 57902
@@ -165,8 +165,8 @@
             "placeholder_en": "e.g. ISO9001 \/ FDA \/ ROHS",
             "value": "ISO9001",
             "images": [
-                58050,
-                58051
+                58051,
+                58050
             ],
             "image_captions": []
         },
@@ -454,7 +454,7 @@
         "custom_domain": "cn.gofair.org",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-10-25 21:42:36",
+    "updated_at": "2026-10-25 21:50:42",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/en.gofair.org\/",
