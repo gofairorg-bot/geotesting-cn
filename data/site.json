@@ -15,11 +15,11 @@
             "label_en": "Company Name",
             "placeholder_zh": "如：广州市***自动化设备有限公司",
             "placeholder_en": "e.g. Guangzhou *** Automation Co., Ltd.",
-            "value": "广州潜龙科技有限公司1553",
+            "value": "广州潜龙科技有限公司1638",
             "images": [
                 57902,
-                57904,
-                58292
+                58292,
+                57904
             ],
             "image_captions": {
                 "57902": "pic1",
@@ -456,11 +456,12 @@
         "custom_domain": "cn.gofair.org",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-10-29 16:10:34",
+    "updated_at": "2026-10-29 16:38:36",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/en.gofair.org\/",
         "alt_lang": "en",
         "current_lang": "zh"
-    }
+    },
+    "_repo_url": "https:\/\/github.com\/gofairorg-bot\/geotesting-cn"
 }

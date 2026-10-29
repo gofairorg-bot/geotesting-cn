@@ -5,7 +5,7 @@ Official **brand knowledge base** (static site for GitHub Pages).
 
 ## Entity
 
-- **Company / 企业**: 广州潜龙科技有限公司1553
+- **Company / 企业**: 广州潜龙科技有限公司1638
 - **Brand / 品牌**: 好兄弟
 - **Location / 地区**: 中国广东广州2
 - **Products / 产品**: 数控设备、激光设备、焊接设备
@@ -34,6 +34,10 @@ Official **brand knowledge base** (static site for GitHub Pages).
 - https://baijiahao.com/ddd
 - https://youku.com/ss
 - https://geogofair.com
+
+## Source repository
+
+- https://github.com/gofairorg-bot/geotesting-cn
 
 ## Machine-readable
 
