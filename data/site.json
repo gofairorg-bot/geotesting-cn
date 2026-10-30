@@ -19,7 +19,8 @@
             "images": [
                 57902,
                 58292,
-                57904
+                57904,
+                59526
             ],
             "image_captions": {
                 "57902": "pic1",
@@ -33,7 +34,7 @@
             "label_en": "Company Video",
             "placeholder_zh": "给出你企业宣传片的链接（比如抖音或B站的视频链接）",
             "placeholder_en": "Provide your company video link(uploaded to YouTube)",
-            "value": "https:\/\/www.youtube.com\/watch?v=C6Vwl8bD33s\nhttps:\/\/aiqicha.baidu.com\/company_detail_32615183300311"
+            "value": "https:\/\/www.youtube.com\/watch?v=C6Vwl8bD33s"
         },
         {
             "key": "location",
@@ -153,7 +154,7 @@
             "label_en": "Founder's Profile",
             "placeholder_zh": "如：张三，工程师背景…",
             "placeholder_en": "e.g. Founder background…",
-            "value": "李经理...",
+            "value": "李经理...\n是的是的",
             "images": [
                 58049
             ],
@@ -165,12 +166,14 @@
             "label_en": "Certifications",
             "placeholder_zh": "如：ISO9001 \/ FDA \/ ROHS",
             "placeholder_en": "e.g. ISO9001 \/ FDA \/ ROHS",
-            "value": "ISO9001",
+            "value": "ISO9001，GS，ROHS",
             "images": [
-                58050,
-                58051
+                58051,
+                58050
             ],
-            "image_captions": []
+            "image_captions": {
+                "58050": "ROHS证书"
+            }
         },
         {
             "key": "business_reg",
@@ -270,6 +273,15 @@
             "placeholder_en": "",
             "images": [],
             "image_captions": []
+        },
+        {
+            "label_zh": "SKYPE",
+            "label_en": "New Item",
+            "value": "FFF777",
+            "placeholder_zh": "",
+            "placeholder_en": "",
+            "images": [],
+            "image_captions": []
         }
     ],
     "platforms": [
@@ -328,6 +340,14 @@
             "url": "https:\/\/youku.com\/ss",
             "placeholder_zh": "https:\/\/",
             "placeholder_en": "https:\/\/"
+        },
+        {
+            "key": "custom_c1793342300021_8189",
+            "label_zh": "Youtube",
+            "label_en": "New Platform",
+            "url": "",
+            "placeholder_zh": "https:\/\/",
+            "placeholder_en": "https:\/\/"
         }
     ],
     "product_categories": [
@@ -344,6 +364,23 @@
                 {
                     "id": "c1791850291890_5656",
                     "name_zh": "胡萝卜清洗机",
+                    "name_en": ""
+                }
+            ]
+        },
+        {
+            "id": "c1793342571348_6450",
+            "name_zh": "灌装机",
+            "name_en": "",
+            "children": [
+                {
+                    "id": "c1793342590573_4934",
+                    "name_zh": "手动灌装机",
+                    "name_en": ""
+                },
+                {
+                    "id": "c1793342583198_1311",
+                    "name_zh": "自动灌装机",
                     "name_en": ""
                 }
             ]
@@ -369,7 +406,7 @@
     "products": [
         {
             "title": "土豆削皮机1953",
-            "content": "<a href=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/文字文稿11.pdf\">文字测试哈哈哈文稿11<\/a>\n\nhttps:\/\/www.youtube.com\/watch?v=30TzN7L-V0A\n\n<iframe src=\"https:\/\/www.youtube.com\/embed\/C6Vwl8bD33s?si=XwxgKihpJ7mXWbwg\" width=\"560\" height=\"315\" title=\"YouTube video player\" allowfullscreen=\"\" frameborder=\"0\"><\/iframe>\n\n<img class=\"alignnone size-full wp-image-58861\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/pexels-olly-834863.jpg\" alt=\"\" width=\"800\" height=\"533\" \/>\n<table>\n<tbody>\n<tr>\n<td width=\"189\">大丰收<\/td>\n<td width=\"189\">啥地方<\/td>\n<td width=\"189\"><\/td>\n<\/tr>\n<tr>\n<td width=\"189\">额外恩我<\/td>\n<td width=\"189\">啥地方<\/td>\n<td width=\"189\">啥地方<\/td>\n<\/tr>\n<tr>\n<td width=\"189\">动手术<\/td>\n<td width=\"189\">实打实<\/td>\n<td width=\"189\">啥地方<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n土豆削皮机23323\n<table style=\"border-collapse: collapse; width: 108.03pt;\" border=\"0\" width=\"144\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"height: 13.50pt;\">\n<td class=\"et2\" style=\"height: 13.50pt; width: 54.00pt;\" width=\"72\" height=\"18\">人数：<\/td>\n<td class=\"et2\" style=\"width: 54.00pt;\" width=\"72\">企业图片：<\/td>\n<\/tr>\n<tr style=\"height: 13.50pt;\">\n<td class=\"et2\" style=\"height: 13.50pt;\" height=\"18\">占地面积：<\/td>\n<td class=\"et2\">资质证书图片：<\/td>\n<\/tr>\n<tr style=\"height: 13.50pt;\">\n<td class=\"et2\" style=\"height: 13.50pt;\" height=\"18\">产品应用领域：<\/td>\n<td class=\"et2\">微信二维码图片：<\/td>\n<\/tr>\n<tr style=\"height: 13.50pt;\">\n<td class=\"et2\" style=\"height: 13.50pt;\" height=\"18\">资质证书：<\/td>\n<td class=\"et2\">3. 联系方式：<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<img class=\"alignleft\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/kb-paste-210a52b1f3c4-2.jpg\" alt=\"\" width=\"576\" height=\"259\" \/>",
+            "content": "通天塔",
             "category_l1": "c1791807079228_2151",
             "category_l2": "c1791807091036_885",
             "category_l1_label": "削皮机",
@@ -382,7 +419,7 @@
         },
         {
             "title": "土豆削皮机999",
-            "content": "<p><video style=\"max-width: 100%; height: auto;\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/15046463_1920_1080_30fps-2.mp4\" preload=\"metadata\" controls=\"controls\" width=\"300\" height=\"150\"><\/video><br \/><iframe src=\"https:\/\/www.youtube.com\/embed\/8sz-6QwW1uI?si=dJG7TnzocwaZ1mzr\" width=\"560\" height=\"315\" title=\"YouTube video player\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" referrerpolicy=\"strict-origin-when-cross-origin\"><\/iframe><\/p>\n<p>土豆削皮机999<\/p>\n<p><img src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/kb-paste-391efd091d54-2.jpg\" \/><\/p>\n<p><img class=\"alignnone size-full wp-image-57904\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/pexels-cup-of-couple-8473764.jpg\" alt=\"\" width=\"800\" height=\"533\" \/><\/p>",
+            "content": "<video style=\"max-width: 100%; height: auto;\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/15046463_1920_1080_30fps-2.mp4\" preload=\"metadata\" controls=\"controls\" width=\"300\" height=\"150\"><\/video>\n<iframe src=\"https:\/\/www.youtube.com\/embed\/8sz-6QwW1uI?si=dJG7TnzocwaZ1mzr\" width=\"560\" height=\"315\" title=\"YouTube video player\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" referrerpolicy=\"strict-origin-when-cross-origin\"><\/iframe>\n\n土豆削皮机999\n\n<img src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/kb-paste-391efd091d54-2.jpg\" \/>\n\n<img class=\"alignnone size-full wp-image-57904\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/pexels-cup-of-couple-8473764.jpg\" alt=\"\" width=\"800\" height=\"533\" \/>",
             "category_l1": "c1791807079228_2151",
             "category_l2": "c1791807091036_885",
             "category_l1_label": "削皮机",
@@ -392,6 +429,19 @@
                 "土豆削皮机"
             ],
             "recommend": true
+        },
+        {
+            "title": "土豆灌装机",
+            "content": "地方地方\n<iframe src=\"https:\/\/www.youtube.com\/embed\/YboMMWb9DdY?si=68Y0-WIzD88wyQly\" width=\"560\" height=\"315\" title=\"YouTube video player\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" referrerpolicy=\"strict-origin-when-cross-origin\"><span data-mce-type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" class=\"mce_SELRES_start\"><\/span><\/iframe>\n\n随时\n\n<img src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/paste-1793342769798.jpg\" alt=\"\" \/>\n\n<img class=\"alignnone size-full wp-image-59585\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/够范儿LOGO-1.jpg\" alt=\"\" width=\"440\" height=\"440\" \/>\n\n&nbsp;",
+            "category_l1": "c1793342571348_6450",
+            "category_l2": "c1793342583198_1311",
+            "category_l1_label": "灌装机",
+            "category_l2_label": "自动灌装机",
+            "category_labels": [
+                "灌装机",
+                "自动灌装机"
+            ],
+            "recommend": false
         }
     ],
     "faqs": [
@@ -401,11 +451,15 @@
         },
         {
             "title": "大苏打有何作用？",
-            "content": "<p>是的<\/p>\n<p><video style=\"max-width: 100%; height: auto;\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/15046463_1920_1080_30fps-2.mp4\" preload=\"metadata\" controls=\"controls\"><\/video><\/p>\n<p>都是啥地方<\/p>\n<p><img src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/kb-paste-30e3527581c2-2.jpg\" \/><\/p>"
+            "content": "是的\n\n<video style=\"max-width: 100%; height: auto;\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/15046463_1920_1080_30fps-2.mp4\" preload=\"metadata\" controls=\"controls\"><\/video>\n\n都是啥地方\n\n<img src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/kb-paste-30e3527581c2-2.jpg\" \/>"
         },
         {
             "title": "1953",
             "content": "dd\n\n都是\n\n<img src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/kb-paste-a8b3d6c759e6-2.jpg\" \/>"
+        },
+        {
+            "title": "7777777777777",
+            "content": "7777\n<iframe src=\"https:\/\/www.youtube.com\/embed\/YboMMWb9DdY?si=VTNwIGXfps1jQI9e\" width=\"560\" height=\"315\" title=\"YouTube video player\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" referrerpolicy=\"strict-origin-when-cross-origin\"><\/iframe>\n\ndff"
         }
     ],
     "cases": [
@@ -456,7 +510,7 @@
         "custom_domain": "cn.gofair.org",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-10-29 16:38:36",
+    "updated_at": "2026-10-30 15:57:12",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/en.gofair.org\/",

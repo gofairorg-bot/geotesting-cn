@@ -11,7 +11,6 @@
 ## 企业宣传片
 
 https://www.youtube.com/watch?v=C6Vwl8bD33s
-https://aiqicha.baidu.com/company_detail_32615183300311
 
 ## 所在国家、省份、城市
 
@@ -60,10 +59,11 @@ https://aiqicha.baidu.com/company_detail_32615183300311
 ## 创始人简介
 
 李经理...
+是的是的
 
 ## 资质证书名称
 
-ISO9001
+ISO9001，GS，ROHS
 
 ## 工商注册信息
 
