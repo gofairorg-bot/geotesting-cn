@@ -53,9 +53,9 @@
             "placeholder_en": "e.g. Eagle（Introduce you brand more）",
             "value": "好兄弟",
             "images": [
+                58288,
                 59585,
-                58284,
-                58288
+                58284
             ],
             "image_captions": {
                 "58284": "1",
@@ -524,7 +524,7 @@
         "custom_domain": "cn.gofair.org",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-10-31 22:14:48",
+    "updated_at": "2026-10-31 22:46:08",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/en.gofair.org\/",
