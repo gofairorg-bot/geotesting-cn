@@ -9,9 +9,9 @@
             "placeholder_en": "e.g. Guangzhou *** Automation Co., Ltd.",
             "value": "广州潜龙科技有限公司1949",
             "images": [
-                57904,
-                57902,
                 58292,
+                57902,
+                57904,
                 59526
             ],
             "image_captions": {
@@ -26,7 +26,7 @@
             "label_en": "Introduction of this site",
             "placeholder_zh": "向你的客户简单介绍本站的用途，比如是你公司的官网或只是一个品牌知识库",
             "placeholder_en": "Provide your clients with a brief overview of the site’s purpose—for instance, whether it serves as your company’s official website or simply as a brand knowledge base",
-            "value": "本站是一个品牌知识库网站"
+            "value": "本站是一个品牌知识库网站1949"
         },
         {
             "key": "company_video",
@@ -54,9 +54,9 @@
             "placeholder_en": "e.g. Eagle（Introduce you brand more）",
             "value": "好兄弟",
             "images": [
-                59585,
+                58284,
                 58288,
-                58284
+                59585
             ],
             "image_captions": {
                 "58284": "1",
@@ -174,8 +174,8 @@
             "placeholder_en": "e.g. ISO9001 \/ FDA \/ ROHS",
             "value": "ISO9001，GS，ROHS",
             "images": [
-                58051,
-                58050
+                58050,
+                58051
             ],
             "image_captions": {
                 "58050": "ROHS证书"
@@ -516,7 +516,7 @@
         "custom_domain": "cn.gofair.org",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-10-31 19:49:45",
+    "updated_at": "2026-10-31 19:51:48",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/en.gofair.org\/",
