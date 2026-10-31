@@ -7,7 +7,7 @@
             "label_en": "Company Name",
             "placeholder_zh": "如：广州市***自动化设备有限公司",
             "placeholder_en": "e.g. Guangzhou *** Automation Co., Ltd.",
-            "value": "广州潜龙科技有限公司1949",
+            "value": "广州潜龙科技有限公司2214",
             "images": [
                 57902,
                 57904,
@@ -25,7 +25,7 @@
             "label_en": "Introduction of this site",
             "placeholder_zh": "向你的客户简单介绍本站的用途，比如是你公司的官网或只是一个品牌知识库",
             "placeholder_en": "Provide your clients with a brief overview of the site’s purpose—for instance, whether it serves as your company’s official website or simply as a brand knowledge base",
-            "value": "本站是一个品牌知识库网站1949"
+            "value": "本站是一个品牌知识库网站2214"
         },
         {
             "key": "company_video",
@@ -420,7 +420,7 @@
     "products": [
         {
             "title": "土豆削皮机1953",
-            "content": "通天塔\n\nsdfsdjf\n\n<img src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/paste-1793361482967.jpg\" alt=\"\" \/>",
+            "content": "通天塔\n\nsdfsdjf\n\n<img class=\"aligncenter\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/paste-1793361482967.jpg\" alt=\"\" \/>\n\n<img class=\"size-full wp-image-58861 aligncenter\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/pexels-olly-834863.jpg\" alt=\"\" width=\"800\" height=\"533\" \/>",
             "category_l1": "c1791807079228_2151",
             "category_l2": "c1791807091036_885",
             "category_l1_label": "削皮机",
@@ -433,7 +433,7 @@
         },
         {
             "title": "土豆削皮机999",
-            "content": "<p><video style=\"max-width: 100%; height: auto;\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/15046463_1920_1080_30fps-2.mp4\" preload=\"metadata\" controls=\"controls\" width=\"300\" height=\"150\"><\/video><br \/><iframe src=\"https:\/\/www.youtube.com\/embed\/8sz-6QwW1uI?si=dJG7TnzocwaZ1mzr\" width=\"560\" height=\"315\" title=\"YouTube video player\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" referrerpolicy=\"strict-origin-when-cross-origin\"><\/iframe><\/p>\n<p>土豆削皮机999<\/p>\n<p><img class=\"aligncenter\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/kb-paste-391efd091d54-2.jpg\" \/><\/p>\n<p><img class=\"size-full wp-image-57904 aligncenter\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/pexels-cup-of-couple-8473764.jpg\" alt=\"\" width=\"800\" height=\"533\" \/><\/p>",
+            "content": "<video style=\"max-width: 100%; height: auto;\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/15046463_1920_1080_30fps-2.mp4\" preload=\"metadata\" controls=\"controls\" width=\"300\" height=\"150\"><\/video>\n<iframe src=\"https:\/\/www.youtube.com\/embed\/8sz-6QwW1uI?si=dJG7TnzocwaZ1mzr\" width=\"560\" height=\"315\" title=\"YouTube video player\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" referrerpolicy=\"strict-origin-when-cross-origin\"><\/iframe>\n\n土豆削皮机999\n\n<img class=\"aligncenter\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/kb-paste-391efd091d54-2.jpg\" \/>\n\n<img class=\"size-full wp-image-57904 aligncenter\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/pexels-cup-of-couple-8473764.jpg\" alt=\"\" width=\"800\" height=\"533\" \/>",
             "category_l1": "c1791807079228_2151",
             "category_l2": "c1791807091036_885",
             "category_l1_label": "削皮机",
@@ -524,7 +524,7 @@
         "custom_domain": "cn.gofair.org",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-10-31 22:09:19",
+    "updated_at": "2026-10-31 22:14:48",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/en.gofair.org\/",
