@@ -42,7 +42,7 @@
             "label_en": "City\/Province\/Country",
             "placeholder_zh": "如：中国广东省广州市",
             "placeholder_en": "e.g. Guangzhou\/Guangdong\/China",
-            "value": "中国广东广州2",
+            "value": "",
             "images": [],
             "image_captions": []
         },
@@ -54,6 +54,7 @@
             "placeholder_en": "e.g. Eagle（Introduce you brand more）",
             "value": "好兄弟",
             "images": [
+                58288,
                 59585
             ],
             "image_captions": []
@@ -510,7 +511,7 @@
         "custom_domain": "cn.gofair.org",
         "cross_lang_link": 0
     },
-    "updated_at": "2026-10-31 17:31:17",
+    "updated_at": "2026-10-31 17:56:09",
     "_cross_lang": {
         "enabled": false,
         "alt_url": "",

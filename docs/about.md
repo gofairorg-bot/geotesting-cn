@@ -14,8 +14,6 @@ https://www.youtube.com/watch?v=C6Vwl8bD33s
 
 ## 所在国家、省份、城市
 
-中国广东广州2
-
 ## 品牌名称
 
 好兄弟
