@@ -5,7 +5,7 @@ Official **brand knowledge base** (static site for GitHub Pages).
 
 ## Entity
 
-- **Company / 企业**: 广州潜龙科技有限公司1638
+- **Company / 企业**: 广州潜龙科技有限公司1949
 - **Brand / 品牌**: 好兄弟
 - **Products / 产品**: 数控设备、激光设备、焊接设备
 - **Highlights / 优势**: 性价比高
