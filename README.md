@@ -33,6 +33,7 @@ Official **brand knowledge base** (static site for GitHub Pages).
 - https://baijiahao.com/ddd
 - https://youku.com/ss
 - https://geogofair.com
+- https://wa.me/8615025336588
 
 ## Source repository
 

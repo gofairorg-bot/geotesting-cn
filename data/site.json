@@ -9,10 +9,9 @@
             "placeholder_en": "e.g. Guangzhou *** Automation Co., Ltd.",
             "value": "广州潜龙科技有限公司1949",
             "images": [
-                59526,
                 57902,
-                58292,
-                57904
+                57904,
+                58292
             ],
             "image_captions": {
                 "57902": "pic1",
@@ -288,6 +287,15 @@
             "placeholder_en": "",
             "images": [],
             "image_captions": []
+        },
+        {
+            "label_zh": "whtasapp",
+            "label_en": "New Item",
+            "value": "https:\/\/wa.me\/8615025336588",
+            "placeholder_zh": "",
+            "placeholder_en": "",
+            "images": [],
+            "image_captions": []
         }
     ],
     "platforms": [
@@ -516,7 +524,7 @@
         "custom_domain": "cn.gofair.org",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-10-31 21:11:44",
+    "updated_at": "2026-10-31 22:09:19",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/en.gofair.org\/",
