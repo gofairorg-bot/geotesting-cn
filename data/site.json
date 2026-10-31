@@ -9,8 +9,8 @@
             "placeholder_en": "e.g. Guangzhou *** Automation Co., Ltd.",
             "value": "广州潜龙科技有限公司1638",
             "images": [
-                59526,
                 58292,
+                59526,
                 57902,
                 57904
             ],
@@ -54,6 +54,7 @@
             "placeholder_en": "e.g. Eagle（Introduce you brand more）",
             "value": "好兄弟",
             "images": [
+                58284,
                 58288,
                 59585
             ],
@@ -509,12 +510,12 @@
     },
     "advanced": {
         "custom_domain": "cn.gofair.org",
-        "cross_lang_link": 0
+        "cross_lang_link": 1
     },
-    "updated_at": "2026-10-31 17:56:09",
+    "updated_at": "2026-10-31 18:25:12",
     "_cross_lang": {
-        "enabled": false,
-        "alt_url": "",
+        "enabled": true,
+        "alt_url": "https:\/\/en.gofair.org\/",
         "alt_lang": "en",
         "current_lang": "zh"
     },
