@@ -11,7 +11,8 @@
             "images": [
                 57902,
                 57904,
-                58292
+                58292,
+                59832
             ],
             "image_captions": {
                 "57902": "pic1",
@@ -518,7 +519,7 @@
         "custom_domain": "cn.gofair.org",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-11-01 11:15:19",
+    "updated_at": "2026-11-02 02:19:00",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/en.gofair.org\/",
