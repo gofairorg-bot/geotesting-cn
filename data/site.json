@@ -7,7 +7,7 @@
             "label_en": "Company Name",
             "placeholder_zh": "如：广州市***自动化设备有限公司",
             "placeholder_en": "e.g. Guangzhou *** Automation Co., Ltd.",
-            "value": "广州潜龙科技有限公司2214",
+            "value": "广州潜龙科技有限公司1106",
             "images": [
                 57902,
                 57904,
@@ -25,7 +25,7 @@
             "label_en": "Introduction of this site",
             "placeholder_zh": "向你的客户简单介绍本站的用途，比如是你公司的官网或只是一个品牌知识库",
             "placeholder_en": "Provide your clients with a brief overview of the site’s purpose—for instance, whether it serves as your company’s official website or simply as a brand knowledge base",
-            "value": "本站是一个品牌知识库网站2214"
+            "value": "本站是一个品牌知识库网站1106"
         },
         {
             "key": "company_video",
@@ -41,7 +41,7 @@
             "label_en": "City\/Province\/Country",
             "placeholder_zh": "如：中国广东省广州市",
             "placeholder_en": "e.g. Guangzhou\/Guangdong\/China",
-            "value": "",
+            "value": "中国广东省广州市",
             "images": [],
             "image_captions": []
         },
@@ -53,10 +53,10 @@
             "placeholder_en": "e.g. Eagle（Introduce you brand more）",
             "value": "好兄弟",
             "images": [
-                58284,
+                59585,
                 58048,
-                58288,
-                59585
+                58284,
+                58288
             ],
             "image_captions": {
                 "58048": "4",
@@ -356,14 +356,6 @@
             "url": "https:\/\/youku.com\/ss",
             "placeholder_zh": "https:\/\/",
             "placeholder_en": "https:\/\/"
-        },
-        {
-            "key": "custom_c1793342300021_8189",
-            "label_zh": "Youtube",
-            "label_en": "New Platform",
-            "url": "",
-            "placeholder_zh": "https:\/\/",
-            "placeholder_en": "https:\/\/"
         }
     ],
     "product_categories": [
@@ -467,7 +459,7 @@
         },
         {
             "title": "大苏打有何作用？",
-            "content": "<p>是的<\/p>\n<p><video style=\"max-width: 100%; height: auto;\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/15046463_1920_1080_30fps-2.mp4\" preload=\"metadata\" controls=\"controls\"><\/video><\/p>\n<p>都是啥地方<\/p>\n<p><img src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/kb-paste-30e3527581c2-2.jpg\" \/><\/p>"
+            "content": "是的\n\n<video style=\"max-width: 100%; height: auto;\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/15046463_1920_1080_30fps-2.mp4\" preload=\"metadata\" controls=\"controls\"><\/video>\n\n都是啥地方\n\n<img src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/kb-paste-30e3527581c2-2.jpg\" \/>"
         },
         {
             "title": "1953",
@@ -526,7 +518,7 @@
         "custom_domain": "cn.gofair.org",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-11-01 09:49:02",
+    "updated_at": "2026-11-01 11:07:12",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/en.gofair.org\/",
