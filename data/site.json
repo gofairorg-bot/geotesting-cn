@@ -210,7 +210,7 @@
         {
             "label_zh": "官网网址",
             "label_en": "Website",
-            "value": "https:\/\/geogofair.com",
+            "value": "广州紫光智能装备有限公司\nhttps:\/\/geogofair.com",
             "placeholder_zh": "https:\/\/www.example.com（有官网请填写）",
             "placeholder_en": "",
             "images": [],
@@ -519,7 +519,7 @@
         "custom_domain": "cn.gofair.org",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-11-03 08:51:01",
+    "updated_at": "2026-11-03 10:49:02",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/en.gofair.org\/",
