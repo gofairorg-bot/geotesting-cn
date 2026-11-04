@@ -208,20 +208,32 @@
     ],
     "contact": [
         {
+            "key": "website",
             "label_zh": "官网网址",
             "label_en": "Website",
-            "value": "广州紫光智能装备有限公司\nhttps:\/\/geogofair.com",
-            "placeholder_zh": "https:\/\/www.example.com（有官网请填写）",
-            "placeholder_en": "",
+            "value": "https:\/\/geogofair.com",
+            "placeholder_zh": "https:\/\/www.example.com（如已有官网请填写）",
+            "placeholder_en": "https:\/\/www.example.com（如已有官网请填写）",
             "images": [],
             "image_captions": []
         },
         {
+            "key": "corp_name",
+            "label_zh": "公司名称",
+            "label_en": "Company Name",
+            "value": "广州紫光智能装备有限公司",
+            "placeholder_zh": "如：**公司",
+            "placeholder_en": "e.g. ** Company",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "contact_person",
             "label_zh": "联系人",
             "label_en": "Contact Person",
             "value": "李经理",
             "placeholder_zh": "如：张经理",
-            "placeholder_en": "",
+            "placeholder_en": "e.g. Mr. Zhang",
             "images": [
                 58049,
                 58289
@@ -229,51 +241,57 @@
             "image_captions": []
         },
         {
+            "key": "address",
             "label_zh": "地址",
             "label_en": "Address",
             "value": "广州市天河区沙太南路85号金企商务中心66号厂房",
             "placeholder_zh": "详细地址",
-            "placeholder_en": "",
+            "placeholder_en": "Full address",
             "images": [],
             "image_captions": []
         },
         {
+            "key": "telephone",
             "label_zh": "电话",
             "label_en": "Telephone",
             "value": "020-8069****",
             "placeholder_zh": "如：020-8069****",
-            "placeholder_en": "",
+            "placeholder_en": "e.g. +86-20-****",
             "images": [],
             "image_captions": []
         },
         {
+            "key": "mobile",
             "label_zh": "手机",
             "label_en": "Mobile Phone",
             "value": "1352963****",
             "placeholder_zh": "如：135****1234",
-            "placeholder_en": "",
+            "placeholder_en": "e.g. +86-135****",
             "images": [],
             "image_captions": []
         },
         {
+            "key": "wechat",
             "label_zh": "微信号",
             "label_en": "Wechat",
             "value": "paygofair2",
             "placeholder_zh": "微信号或上传二维码",
-            "placeholder_en": "",
+            "placeholder_en": "WeChat ID or QR",
             "images": [],
             "image_captions": []
         },
         {
+            "key": "email",
             "label_zh": "邮箱",
             "label_en": "E-mail",
             "value": "gofair@qq.com",
             "placeholder_zh": "如：sales@example.com",
-            "placeholder_en": "",
+            "placeholder_en": "e.g. sales@example.com",
             "images": [],
             "image_captions": []
         },
         {
+            "key": "custom_c4b45bc8",
             "label_zh": "Whatsapp",
             "label_en": "New Item",
             "value": "86-1352963****",
@@ -283,6 +301,7 @@
             "image_captions": []
         },
         {
+            "key": "custom_d02e9826",
             "label_zh": "SKYPE",
             "label_en": "New Item",
             "value": "FFF777",
@@ -292,6 +311,7 @@
             "image_captions": []
         },
         {
+            "key": "custom_8a18e6e4",
             "label_zh": "whtasapp",
             "label_en": "New Item",
             "value": "https:\/\/wa.me\/8615025336588",
@@ -300,6 +320,19 @@
             "images": [],
             "image_captions": []
         }
+    ],
+    "contact_seen": [
+        "website",
+        "contact_person",
+        "address",
+        "telephone",
+        "mobile",
+        "wechat",
+        "email",
+        "custom_c4b45bc8",
+        "custom_d02e9826",
+        "custom_8a18e6e4",
+        "corp_name"
     ],
     "platforms": [
         {
@@ -519,7 +552,7 @@
         "custom_domain": "cn.gofair.org",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-11-03 10:49:02",
+    "updated_at": "2026-11-04 18:27:03",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/en.gofair.org\/",
