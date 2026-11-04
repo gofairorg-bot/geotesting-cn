@@ -208,22 +208,22 @@
     ],
     "contact": [
         {
-            "key": "website",
-            "label_zh": "官网网址",
-            "label_en": "Website",
-            "value": "https:\/\/geogofair.com",
-            "placeholder_zh": "https:\/\/www.example.com（如已有官网请填写）",
-            "placeholder_en": "https:\/\/www.example.com（如已有官网请填写）",
-            "images": [],
-            "image_captions": []
-        },
-        {
             "key": "corp_name",
             "label_zh": "公司名称",
             "label_en": "Company Name",
             "value": "广州紫光智能装备有限公司",
             "placeholder_zh": "如：**公司",
             "placeholder_en": "e.g. ** Company",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "website",
+            "label_zh": "官网网址",
+            "label_en": "Website",
+            "value": "https:\/\/geogofair.com",
+            "placeholder_zh": "https:\/\/www.example.com（如已有官网请填写）",
+            "placeholder_en": "https:\/\/www.example.com（如已有官网请填写）",
             "images": [],
             "image_captions": []
         },
@@ -552,7 +552,7 @@
         "custom_domain": "cn.gofair.org",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-11-04 18:27:03",
+    "updated_at": "2026-11-04 18:32:39",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/en.gofair.org\/",
