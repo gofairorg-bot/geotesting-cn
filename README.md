@@ -5,7 +5,7 @@ Official website (static site for GitHub Pages).
 
 ## Entity
 
-- **Company / 企业**: 广州紫光智能装备有限公司
+- **Company / 企业**: 广州紫光智能装备有限公司2059
 - **Brand / 品牌**: 好兄弟
 - **Location / 地区**: 中国广东省广州市
 - **Products / 产品**: 数控设备、激光设备、焊接设备

@@ -7,7 +7,7 @@
             "label_en": "Company Name",
             "placeholder_zh": "如：广州市***自动化设备有限公司",
             "placeholder_en": "e.g. Guangzhou *** Automation Co., Ltd.",
-            "value": "广州紫光智能装备有限公司",
+            "value": "广州紫光智能装备有限公司2059",
             "images": [
                 57902,
                 57904,
@@ -552,7 +552,7 @@
         "custom_domain": "cn.gofair.org",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-11-05 19:39:08",
+    "updated_at": "2026-11-05 20:59:54",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/en.gofair.org\/",
