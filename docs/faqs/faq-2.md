@@ -6,4 +6,4 @@
 
 都是啥地方
 
-![](https://cn.gofair.org/assets/img/faq-2-1.jpg)
+![大苏打有何作用？](../../assets/img/faq-2-1.jpg)

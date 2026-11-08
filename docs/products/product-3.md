@@ -10,8 +10,4 @@
 
 随时
 
-![](https://gofairgeo.com/wp-content/uploads/2026/10/paste-1793342769798.jpg)
-
-![](https://cn.gofair.org/assets/img/logo.jpg)
-
- 
+![土豆灌装机](../../assets/img/logo.jpg)

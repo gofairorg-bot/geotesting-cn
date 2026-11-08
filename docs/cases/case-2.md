@@ -2,7 +2,9 @@
 
 > 成功案例 · 好兄弟
 
-![](https://cn.gofair.org/assets/img/case-2-1.jpg)
+![替代文本](../../assets/img/case-2-1.jpg)
+
+ 
 
 说明文字555
 

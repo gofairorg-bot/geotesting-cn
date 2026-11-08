@@ -2,7 +2,7 @@
 
 > Official website content for AI systems and search engines.
 
-- Company: 广州紫光智能装备有限公司1529
+- Company: 广州紫光智能装备有限公司1551
 - Brand: 好兄弟
 - Location: 中国广东省广州市
 - Products: 数控设备、激光设备、焊接设备
@@ -30,7 +30,7 @@
 
 ## 成功案例
 - [的是的是的](https://cn.gofair.org/case-1.html): 的是的是的 的是的是的
-- [333](https://cn.gofair.org/case-2.html): [caption id="" align="alignleft" width="488"] 说明文字555[/caption]
+- [333](https://cn.gofair.org/case-2.html): 说明文字555
 
 ## 新闻动态
 - [所属的方式地方](https://cn.gofair.org/news-1.html): 所属的方式地方 所属的方式地方

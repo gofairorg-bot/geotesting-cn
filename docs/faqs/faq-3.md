@@ -6,4 +6,4 @@ dd
 
 都是
 
-![](https://cn.gofair.org/assets/img/faq-3-1.jpg)
+![1953](../../assets/img/faq-3-1.jpg)

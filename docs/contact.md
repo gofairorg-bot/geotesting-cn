@@ -12,9 +12,9 @@ https://geogofair.com
 
 李经理
 
-![联系人](https://cn.gofair.org/assets/img/about-5.jpg)
+![联系人](../assets/img/about-5.jpg)
 
-![联系人](https://cn.gofair.org/assets/img/contact-1.jpg)
+![联系人](../assets/img/contact-1.jpg)
 
 ## 地址
 

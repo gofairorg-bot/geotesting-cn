@@ -8,6 +8,6 @@
 
 sdfsdjf
 
-![](https://cn.gofair.org/assets/img/product-1-1.jpg)
+![土豆削皮机1953](../../assets/img/product-1-1.jpg)
 
-![](https://cn.gofair.org/assets/img/product-1-2.jpg)
+![土豆削皮机1953 - 图2](../../assets/img/product-1-2.jpg)

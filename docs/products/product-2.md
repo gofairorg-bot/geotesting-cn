@@ -8,6 +8,6 @@
 
 土豆削皮机999
 
-![](https://cn.gofair.org/assets/img/product-2-1.jpg)
+![土豆削皮机999](../../assets/img/product-2-1.jpg)
 
-![](https://cn.gofair.org/assets/img/product-2-2.jpg)
+![土豆削皮机999 - 图2](../../assets/img/product-2-2.jpg)
