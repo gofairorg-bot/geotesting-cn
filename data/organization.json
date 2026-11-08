@@ -60,11 +60,11 @@
     ],
     "logo": {
         "@type": "ImageObject",
-        "url": "https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/够范儿LOGO-1.jpg"
+        "url": "https:\/\/cn.gofair.org\/assets\/img\/logo.jpg"
     },
     "image": {
         "@type": "ImageObject",
-        "url": "https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/够范儿LOGO-1.jpg"
+        "url": "https:\/\/cn.gofair.org\/assets\/img\/logo.jpg"
     },
     "hasOfferCatalog": {
         "@type": "OfferCatalog",

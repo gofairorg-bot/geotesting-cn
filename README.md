@@ -15,7 +15,7 @@ Official website (static site for GitHub Pages).
 
 | Page | File |
 |------|------|
-| Home | [index.html](https://cn.gofair.org/index.html) |
+| Home | [index.html](https://cn.gofair.org/) |
 | About | [about.html](https://cn.gofair.org/about.html) |
 | Products | [products.html](https://cn.gofair.org/products.html) |
 | Platforms (sameAs sources) | [platforms.html](https://cn.gofair.org/platforms.html) |

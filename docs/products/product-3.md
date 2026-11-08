@@ -10,6 +10,6 @@
 
 ![](https://gofairgeo.com/wp-content/uploads/2026/10/paste-1793342769798.jpg)
 
-![](https://gofairgeo.com/wp-content/uploads/2026/10/够范儿LOGO-1.jpg)
+![](https://cn.gofair.org/assets/img/logo.jpg)
 
  

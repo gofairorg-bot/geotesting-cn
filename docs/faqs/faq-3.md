@@ -6,4 +6,4 @@ dd
 
 都是
 
-![](https://gofairgeo.com/wp-content/uploads/2026/10/kb-paste-a8b3d6c759e6-2.jpg)
+![](https://cn.gofair.org/assets/img/faq-3-1.jpg)

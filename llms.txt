@@ -8,7 +8,7 @@
 - Products: 数控设备、激光设备、焊接设备
 
 ## Site map
-- https://cn.gofair.org/index.html
+- https://cn.gofair.org/
 - https://cn.gofair.org/about.html
 - https://cn.gofair.org/products.html
 - https://cn.gofair.org/platforms.html
@@ -16,6 +16,28 @@
 - https://cn.gofair.org/cases.html
 - https://cn.gofair.org/news.html
 - https://cn.gofair.org/contact.html
+
+## 产品
+- [土豆削皮机1953](https://cn.gofair.org/product-1.html): 通天塔 sdfsdjf
+- [土豆削皮机999](https://cn.gofair.org/product-2.html): 土豆削皮机999
+- [土豆灌装机](https://cn.gofair.org/product-3.html): 地方地方 随时
+
+## 常见问答
+- [很好](https://cn.gofair.org/faq-1.html): 很好
+- [大苏打有何作用？](https://cn.gofair.org/faq-2.html): 是的 都是啥地方
+- [1953](https://cn.gofair.org/faq-3.html): dd 都是
+- [7777777777777](https://cn.gofair.org/faq-4.html): 7777 dff
+
+## 成功案例
+- [的是的是的](https://cn.gofair.org/case-1.html): 的是的是的 的是的是的
+- [333](https://cn.gofair.org/case-2.html): [caption id="" align="alignleft" width="488"] 说明文字555[/caption]
+
+## 新闻动态
+- [所属的方式地方](https://cn.gofair.org/news-1.html): 所属的方式地方 所属的方式地方
+- [666](https://cn.gofair.org/news-2.html): 666
+
+## Markdown
+- [本站 Markdown 版本](https://cn.gofair.org/docs/README.md)
 
 ## sameAs / official profiles
 - https://1688.com/ddd

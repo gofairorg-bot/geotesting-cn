@@ -6,4 +6,4 @@
 
 都是啥地方
 
-![](https://gofairgeo.com/wp-content/uploads/2026/10/kb-paste-30e3527581c2-2.jpg)
+![](https://cn.gofair.org/assets/img/faq-2-1.jpg)
