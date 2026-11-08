@@ -5,7 +5,7 @@ Official website (static site for GitHub Pages).
 
 ## Entity
 
-- **Company / 企业**: 广州紫光智能装备有限公司2059
+- **Company / 企业**: 广州紫光智能装备有限公司1529
 - **Brand / 品牌**: 好兄弟
 - **Location / 地区**: 中国广东省广州市
 - **Products / 产品**: 数控设备、激光设备、焊接设备
@@ -23,6 +23,18 @@ Official website (static site for GitHub Pages).
 | Cases | [cases.html](https://cn.gofair.org/cases.html) |
 | News | [news.html](https://cn.gofair.org/news.html) |
 | Contact | [contact.html](https://cn.gofair.org/contact.html) |
+
+## Markdown version / Markdown 版本
+
+Every page above also has a plain Markdown version (about, products, platforms, FAQ, cases, news, contact): 
+[docs/README.md](https://cn.gofair.org/docs/README.md)  
+以上每个页面都有对应的 Markdown 纯文本版本，入口：[docs/README.md](docs/README.md)。
+
+## Repository layout / 仓库结构
+
+- `*.html`, `assets/` — static site served by GitHub Pages / 静态站页面与样式、图片（`assets/img/`）
+- `docs/` — Markdown versions of the same content / 同一内容的 Markdown 版本
+- `data/`, `llms.txt`, `sitemap.xml`, `robots.txt` — machine-readable files / 机器可读文件
 
 ## Official profiles (sameAs)
 

@@ -4,4 +4,10 @@
 
 ## Sections
 
-- [About](./about.md)\n- [Products](./products/README.md)\n- [FAQ](./faqs/README.md)\n- [Cases](./cases/README.md)\n- [News](./news/README.md)\n
+- [关于我们](./about.md)
+- [产品](./products/README.md)
+- [外围平台](./platforms.md)
+- [常见问答](./faqs/README.md)
+- [成功案例](./cases/README.md)
+- [新闻动态](./news/README.md)
+- [联系我们](./contact.md)

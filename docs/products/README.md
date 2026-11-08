@@ -1,5 +1,11 @@
 # 产品 — 好兄弟
 
-- [土豆削皮机1953](./products/product-1.md)
-- [土豆削皮机999](./products/product-2.md)
-- [土豆灌装机](./products/product-3.md)
+## 削皮机 / 土豆削皮机
+
+- [土豆削皮机1953](./product-1.md)
+- [土豆削皮机999](./product-2.md)
+
+## 灌装机 / 自动灌装机
+
+- [土豆灌装机](./product-3.md)
+
